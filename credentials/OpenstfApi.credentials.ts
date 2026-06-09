@@ -8,7 +8,7 @@ import type {
 export class OpenstfApi implements ICredentialType {
 	name = 'N8nDevOpenstfApi';
 
-	displayName = 'openstf API';
+	displayName = 'Openstf API';
 
 	icon: Icon = { light: 'file:../nodes/Openstf/openstf.png', dark: 'file:../nodes/Openstf/openstf.dark.png' };
 
@@ -22,7 +22,7 @@ export class OpenstfApi implements ICredentialType {
 			default: '',
 			required: true,
 			placeholder: 'https://api.example.com',
-			description: 'The base URL of your openstf API server',
+			description: 'The base URL of your Openstf API server',
 		},
 		{
 			displayName: 'API Key',

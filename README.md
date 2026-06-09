@@ -53,9 +53,13 @@ That's it. No configuration files. No code. It just works.
 
 ## Resources
 
-| Resource | Operations |
-|----------|------------|
-| User | Get user profile, Get access tokens |
+<details>
+<summary><b>User</b> (2 operations)</summary>
+
+- Get User Profile
+- Get Access Tokens
+
+</details>
 
 ---
 
